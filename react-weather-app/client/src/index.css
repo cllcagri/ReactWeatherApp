@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.form-group{
+  width: 275px;
+  margin: 0 auto;
+}
+
+.input-group {
+  width: 275px;
+  margin: 0 auto;
+}
+
+.centered {
+  text-align: center;
+}
